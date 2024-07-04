@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/SPARK.png" width="100%">
+<img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/SPARK.jpg" width="100%">
 <br>
-<h1 align="center">SPARK</h1>
+<h1 align="center">S.P.A.R.K</h1>
 <h2 align="center">
   ～ Smart Programmable Agent for Roomba with Knowledge ～
 <br>
