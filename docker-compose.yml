@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    # command: ["poetry", "run", "python", "spark_roomba/cli.py"]
+    # 必要に応じて以下のようにポートを公開します
+    # ports:
+    #   - "8000:8000"
+    tty: true 
